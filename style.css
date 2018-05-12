@@ -1,0 +1,60 @@
+body {
+	background-color: rgb(245, 245, 245);
+	color: green;
+	font-size: 25px;
+	font-family: 'Roboto';
+
+}
+
+#banner {
+	text-align: center;
+	background-image : url(img/clexa.jpg);
+	background-size: cover;
+	padding: 100px;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+
+}
+
+.card {
+	text-align: center;
+	padding: 80px;
+
+
+}
+
+.social {
+	
+}
+
+
+
+
+h1 {
+
+	color: orange;
+	font-weight: light;
+}
+
+h2 {
+
+	color: orange;
+	font-weight: light;
+}
+
+a {
+	color: purple;
+	text-decoration: none;
+
+}
+
+a:hover {
+	color: blue;
+	font-size: 25px;
+}
+
+#footer {
+	padding: 50px;
+	background-color: rgb(30, 30, 30);
+
+}
